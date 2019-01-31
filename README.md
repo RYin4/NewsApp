@@ -1,7 +1,7 @@
 # Android News Feed Mobile Application
 
 
-#### Purpose 
+### Purpose 
 To provide users with updated news from https://newsapi.org/ in a readable and organized format. 
 
 ### Features 
