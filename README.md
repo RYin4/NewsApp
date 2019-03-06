@@ -14,4 +14,5 @@ News data is fetched from the API located at https://newsapi.org/. Articles are 
 
 ### Screen Shots 
 
-  ![NewsApp!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot1.PNG "News App")![NewsApp!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot3.PNG "News App")
+![NewsApp!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot1.PNG "News App"
+[NewsApp!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot3.PNG "News App")
